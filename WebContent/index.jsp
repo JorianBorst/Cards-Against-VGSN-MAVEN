@@ -33,7 +33,7 @@ to, for instance, display the number of connected players.
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Cards against VGSN</title>
+<title>Pretend You're Xyzzy</title>
 <jsp:include page="analytics.jsp" />
 <link rel="stylesheet" type="text/css" href="cah.css" media="screen" />
 </head>
